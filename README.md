@@ -24,10 +24,10 @@ I'm a programmer, still learning my way through front-end and back-end developme
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/lexipit3268"><img src="https://github-readme-stats.vercel.app/api?username=lexipit3268&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="lexipit3268's GitHub stats" /></a>
+<a href="http://www.github.com/lexipit3268"><img src="https://github-readme-stats.vercel.app/api?username=lexipit3268&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=27272a&hide_border=true&show_icons=true" alt="lexipit3268's GitHub stats" /></a>
 
-<a href="https://github.com/lexipit3268" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lexipit3268&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/lexipit3268" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lexipit3268&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/lexipit3268/Graph-Drawing-Project.io" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=lexipit3268&repo=Graph-Drawing-Project.io&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/lexipit3268/heartlxp" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=lexipit3268&repo=heartlxp&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/lexipit3268/Graph-Drawing-Project.io" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=lexipit3268&repo=Graph-Drawing-Project.io&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=27272a&hide_border=true&locale=en" /></a><a href="https://github.com/lexipit3268/heartlxp" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=lexipit3268&repo=heartlxp&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=27272a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
