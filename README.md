@@ -1,4 +1,4 @@
-Hi ![]👋My name is Nguyen Loc (Lexipit3268)
+Hi!👋 My name is Nguyen Loc (Lexipit3268)
 ================================================================================================================================================
 
 I'm a programmer, still learning my way through front-end and back-end development. Besides coding, I love making music! 🎵
