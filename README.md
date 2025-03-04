@@ -3,7 +3,7 @@ Hi!👋 My name is Nguyen Loc (Lexipit3268)
 
 I'm a programmer, still learning my way through front-end and back-end development. Besides coding, I love making music! 🎵
 
-* 🌍  I'm live in Viet Nam
+* 🌍  I live in Viet Nam
 * ✉️  You can contact me at [addressviet8@gmail.com](mailto:addressviet8@gmail.com)
 * 🚀  I'm currently working on [Graphify](http://lexipit3268.github.io/Graph-Drawing-Project.io/)
 * ⚡  I'm..i'm Ironman
